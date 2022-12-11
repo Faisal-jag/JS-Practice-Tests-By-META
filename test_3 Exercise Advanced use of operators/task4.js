@@ -6,3 +6,9 @@ Note: This task should be completed on a single line of code. The output in the 
 */
 
 console.log(5 + 10); // 15
+
+//diff method
+var a = 2;
+var b = 4;
+var ans = a+b;
+console.log(ans);
