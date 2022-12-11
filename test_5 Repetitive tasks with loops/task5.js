@@ -20,3 +20,18 @@ while (year < 2023) {
 
 
 //End of task5 code
+
+
+
+
+
+
+
+
+//diff ex
+
+var year = 1999;
+while (year <= 2022) {
+    console.log(year);
+    year++;
+};
