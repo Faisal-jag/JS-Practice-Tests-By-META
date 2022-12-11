@@ -18,3 +18,17 @@ for (var i = 1; i <= 5; i++) {
 console.log('Counting completed!');
 
 //End of task1 code
+
+
+
+
+
+
+
+
+//diff ex
+
+for (var i = 1; i <= 10; i++) {
+    console.log(i);
+};
+console.log('Counting completed!');
