@@ -22,3 +22,20 @@ while (i > 0) {
 console.log('Counting completed!');
 
 //End of task4 code
+
+
+
+
+
+
+
+
+
+//diff ex
+
+var i = 10;
+while (i > 0) {
+    console.log(i);
+    i = i - 1;
+};
+console.log('Counting completed!');
