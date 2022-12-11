@@ -39,3 +39,30 @@ switch(day) {
 }
 
 //End of task2 code
+
+
+
+//diff ex
+var TimeZone = 'Maghrib';
+switch(TimeZone) {
+   case 'Fazar':
+       console.log('Tilawat after salah');
+       break;
+   case 'Zohar':
+       console.log('Rest after salah');
+       break;
+   case 'Asar':
+       console.log('Dhikr after salah');
+       break;
+   case 'Maghrib':
+       console.log('Work Packup after salah');
+       break;
+   case 'Isha':
+       console.log('Go back to home after salah');
+       break;
+   case 'Juma':
+       console.log('Socialize');
+       break;
+   default:
+       console.log('nothing');
+}
