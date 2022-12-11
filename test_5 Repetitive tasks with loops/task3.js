@@ -12,6 +12,7 @@ console.log('Counting completed!')
 */
 
 
+
 var i = 1;
 while (i < 6) {
     console.log(i);
@@ -19,6 +20,18 @@ while (i < 6) {
 };
 console.log('Counting completed!');
 
-
 //End of task3 code
 
+
+
+
+
+//diff ex
+
+
+var i = 1;
+while (i <= 10) {
+    console.log(i);
+    i++;
+};
+console.log('Counting completed!');
