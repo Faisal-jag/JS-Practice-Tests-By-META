@@ -37,3 +37,14 @@ var result1 = test1 == 0;
 var result2 = test2 == 0;
 console.log("Is", num1,"An Even Number?", result1);
 console.log("Is", num2,"An Even Number?", result2);
+
+
+//diff var
+var num1 = 10;
+var num2 = 3;
+var test1 = num1 % 2;
+var test2 = num2 % 2;
+var result1 = test1 == 0;
+var result2 = test2 == 0;
+console.log("Is", num1,"An Even Number?", result1);
+console.log("Is", num2,"An Even Number?", result2);
