@@ -11,3 +11,7 @@ The expected output in the console should be: "Mid-level skills: true".
 
 var score = 8;
 console.log("Mid-level skills:", score > 0 && score < 10)
+
+//diff var
+var score = 12;
+console.log("Mid-level skills:", score > 0 && score < 10)
