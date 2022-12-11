@@ -1,6 +1,6 @@
 // pet name variables
 var petDog = 'Rex';
-var petCat = 'Pepper';
+var petCat = 'ruby';
 
 // pet sound variables
 var catSound = "purr";
