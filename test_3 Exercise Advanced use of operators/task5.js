@@ -17,3 +17,10 @@ var now = "Now in ";
 var three = 3;
 var d = "D!"
 console.log(now + three + d); // "Now in 3D!"
+
+
+//diff var
+var Fname = "Faisal";
+var Mname = " I ";
+var Lname = "Jag"
+console.log(Fname + Mname + Lname);
