@@ -15,3 +15,13 @@ var counter = 0;
 counter += 5;
 counter += 3;
 console.log(counter); // 8
+
+
+//diff vr
+var counter = 0;
+counter += 12;
+counter += 3;
+counter += 4;
+counter += 2;
+counter -= 12;
+console.log(counter); // 9
